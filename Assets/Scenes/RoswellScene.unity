@@ -544,7 +544,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Possibly
+  m_text: Magic 8 Ball Text
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -679,8 +679,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0.0076}
-  m_SizeDelta: {x: 20, y: 5}
+  m_AnchoredPosition: {x: 0.0002, y: -0.0026}
+  m_SizeDelta: {x: 15.183104, y: 14.763169}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &286822364
 MonoBehaviour:
@@ -3437,7 +3437,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1365127302}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.069}
+  m_LocalPosition: {x: 0, y: 0, z: -0.063}
   m_LocalScale: {x: 0.006, y: 0.006, z: 1}
   m_Children: []
   m_Father: {fileID: 260299689}
@@ -3445,8 +3445,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0007, y: 0.028}
-  m_SizeDelta: {x: 17, y: 5}
+  m_AnchoredPosition: {x: -0.0004, y: -0.0003}
+  m_SizeDelta: {x: 15.881187, y: 14.435141}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1365127304
 MonoBehaviour:
@@ -3467,7 +3467,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Sample text
+  m_text: Magic 8 Ball Text
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5863,7 +5863,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 62be85e7ec86b0b4ca7a505eefcf0122,
         type: 3}
       propertyPath: m_Name
-      value: untitled
+      value: MiniPyramid
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62be85e7ec86b0b4ca7a505eefcf0122, type: 3}
