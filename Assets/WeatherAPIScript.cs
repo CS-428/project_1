@@ -7,16 +7,15 @@ public class WeatherAPIScript : MonoBehaviour
 {
     public GameObject weatherTextObject;
         // add your personal API key after APPID= and before &units=
-       string url = "api.openweathermap.org/data/2.5/weather?q=Giza&appid=d57a3b3e60041c725d275205b3a0c6f8&units=imperial";
+    string url = "api.openweathermap.org/data/2.5/weather?q=Giza&appid=d57a3b3e60041c725d275205b3a0c6f8&units=imperial";
 
-   
     void Start()
     {
         Debug.Log("Starting");
     // wait a couple seconds to start and then refresh every 900 seconds
 
-       InvokeRepeating("GetDataFromWeb", 2f, 900f);
-   }
+        InvokeRepeating("GetDataFromWeb", 2f, 900f);
+    }
 
    void GetDataFromWeb()
    {

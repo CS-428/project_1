@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\RomeWeatherAPI.cs" />
      <Compile Include="Assets\Rotation.cs" />
      <Compile Include="Assets\VuforiaFocus.cs" />
      <Compile Include="Assets\WeatherAPIScript.cs" />
