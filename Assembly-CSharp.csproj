@@ -36,10 +36,10 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\RomeWeatherAPI.cs" />
-     <Compile Include="Assets\Rotation.cs" />
-     <Compile Include="Assets\VuforiaFocus.cs" />
-     <Compile Include="Assets\WeatherAPIScript.cs" />
+     <Compile Include="Assets\Scripts\RomeWeatherAPI.cs" />
+     <Compile Include="Assets\Scripts\Rotation.cs" />
+     <Compile Include="Assets\Scripts\VuforiaFocus.cs" />
+     <Compile Include="Assets\Scripts\WeatherAPIScript.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
