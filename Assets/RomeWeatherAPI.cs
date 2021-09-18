@@ -7,7 +7,7 @@ public class RomeWeatherAPI : MonoBehaviour
 {
     public GameObject weatherTextObject;
         // add your personal API key after APPID= and before &units=
-       string url = "api.openweathermap.org/data/2.5/weather?q=Rome&appid=d57a3b3e60041c725d275205b3a0c6f8&units=imperial";
+       string url = "api.openweathermap.org/data/2.5/weather?q=Rome&appid=d57a3b3e60041c725d275205b3a0c6f8&units=metric";
 
    
     void Start()
@@ -53,7 +53,7 @@ public class RomeWeatherAPI : MonoBehaviour
                 string conditions = webRequest.downloadHandler.text.Substring(startConditions+7, (endConditions-startConditions-8));
                 //Debug.Log(conditions);
 
-                weatherTextObject.GetComponent<TextMeshPro>().text = "" + easyTempF.ToString() + "°F\n" + conditions;
+                weatherTextObject.GetComponent<TextMeshPro>().text = "" + easyTempF.ToString() + "°C\n" + conditions;
             }
         }
     }
