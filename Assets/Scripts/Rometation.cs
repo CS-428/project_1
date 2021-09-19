@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-public class Rotation : MonoBehaviour
+public class Rometation : MonoBehaviour
 {
     float smooth = 5.0f;
     float tiltAngle = 60.0f;
@@ -16,32 +16,23 @@ public class Rotation : MonoBehaviour
     float x, y, z;
     public Transform target;
     int index;
-    public string[] PhraseList = new string[20] { 
+    public string[] PhraseList = new string[] { 
         // Good outcomes
-        "It is Certain",
-        "It is decidedly so",
-        "Without a doubt",
-        "Yes definitely",
-        "You may rely on it",
-        "As I see it, yes",
-        "Most likely",
-        "Outlook good",
         "Yes",
-        "Signs point to yes",
+        "Lookin' Good!",
+        "You'll be happy today",
+        "Poggers",
 
         // Unclear outcomes
-        "Reply hazy, try again",
-        "Ask again later",
-        "Better not tell you now",
-        "Cannot predict now",
-        "Concentrate and ask again",
+        "I dunno...",
+        "Out for lunch. Return later",
+        "Please reconnect to the internet",
 
         // Negative outcomes
-        "Don't count on it",
-        "My reply is no",
-        "My sources say no",
-        "Outlook not so good",
-        "Very doubtful"
+        "Mercury is in retrograde",
+        "Not lookin' too hot",
+        "Big yikes",
+        "This ain't it, chief"
     };
     void Start()
     {
@@ -50,8 +41,8 @@ public class Rotation : MonoBehaviour
 
     void Update()
     { 
-            if (/*(Math.Abs(transform.rotation.eulerAngles.x - oldEulerAngles.x) > 90f ) ||*/
-                // (Math.Abs(transform.rotation.eulerAngles.y - oldEulerAngles.y) > 90f ) ||
+            if (//(Math.Abs(transform.rotation.eulerAngles.x - oldEulerAngles.x) > 90f ) ||
+                // (Math.Abs(transform.rotation.eulerAngles.y - oldEulerAngles.y) > 90f ) //||
                 (Math.Abs(transform.rotation.eulerAngles.z - oldEulerAngles.z) > 90f ) ){
         
             oldEulerAngles = transform.rotation.eulerAngles;

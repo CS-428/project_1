@@ -37,6 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\RomeWeatherAPI.cs" />
+     <Compile Include="Assets\Scripts\Rometation.cs" />
      <Compile Include="Assets\Scripts\Rotation.cs" />
      <Compile Include="Assets\Scripts\VuforiaFocus.cs" />
      <Compile Include="Assets\Scripts\WeatherAPIScript.cs" />
