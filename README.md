@@ -8,6 +8,9 @@ Project 1 is a knickkack cube for Rome and Giza, showing the following:
 - Non-annoying background noise
 - Imitation Magic 8 ball
 
+For images of the 3D models and videos of the cube, please visit https://sites.google.com/view/gabe-tiemann/cs-428/projects/project-1 
+Note: The page will be updated with full documentation by Monday, September 20, 2021.
+
 ### Unity and Vuforia
 
 Unity        | Vuforia
@@ -28,7 +31,7 @@ The following models are famous landmarks in Giza, Egypt.  The Great Pyramid and
 3. "The Great Pyramid of Giza" (https://skfb.ly/6RqXY) by ianicolo is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 #### Created by Gabe Tiemann
-4. 
+4. "Pyramid" is the smaller pyramid next to the Great Pyramid, using the same textures.
 5. 
 
 ### Rome
