@@ -9,6 +9,7 @@ Project 1 is a knickkack cube for Rome and Giza, showing the following:
 - Imitation Magic 8 ball
 
 For images of the 3D models and videos of the cube, please visit https://sites.google.com/view/gabe-tiemann/cs-428/projects/project-1 
+
 Note: The page will be updated with full documentation by Monday, September 20, 2021.
 
 ### Unity and Vuforia
