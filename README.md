@@ -9,9 +9,12 @@ Project 1 is a knickkack cube for Rome and Giza, showing the following:
 - Imitation Magic 8 ball
 
 ### Unity and Vuforia
-- Unity Version 2019.4.28f1
- - Target build: Android Mobile device
 
+Unity        | Vuforia
+:----------: | :----------:
+2019.4.28f1  | 9.8
+
+Target build: Android Mobile device
 
 ## 3D Objects (SketchFab)
 ### Giza
