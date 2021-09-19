@@ -10,7 +10,7 @@ Project 1 is a knickkack cube for Rome and Giza, showing the following:
 
 ### Unity and Vuforia
 - Unity Version 2019.4.28f1
-- - Target build: Android Mobile device
+ - Target build: Android Mobile device
 
 
 ## 3D Objects (SketchFab)
