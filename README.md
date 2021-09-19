@@ -32,7 +32,7 @@ The following models are famous landmarks in Giza, Egypt.  The Great Pyramid and
 
 #### Created by Gabe Tiemann
 4. "Pyramid" is the smaller pyramid next to the Great Pyramid, using the same textures.
-5. 
+5. "Egyptian Home" is a low-poly model of an ancient Egyptian two-story home that resides just behind small "Pyramid" model
 
 ### Rome
 #### SketchFab
@@ -45,8 +45,8 @@ The first model is a marble carving of Jonah and the Whale on an early Christian
 8. "Scutum (Roman Shield)" (https://skfb.ly/6XUHT) by Paul.OHare is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 #### Created by Gabe Tiemann 
-9. 
-10. 
+9.  "Sculpter's mallet" is a model of what an ancient Roman's scultping mallet might have looked like.
+10. "Roman Sword" is in front of the Scutum and is a modeled after an ancient Roman soldier's sword.
 
 ## Images
 - "Flag of Rome in the style of Venice" by a deleted user on Reddit. (https://www.reddit.com/r/vexillology/comments/f2bvof/flag_of_rome_in_the_style_of_venice/)
