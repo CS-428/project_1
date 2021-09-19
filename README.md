@@ -1,7 +1,19 @@
-# CS 428 at UIC Fall '21
+# Project 1 from CS 428 at UIC Fall '21
+
+## Description
+### Basics
+Project 1 is a knickkack cube for Rome and Giza, showing the following:
+- 3D models relevant to the location
+- Current temperature and weather conditions
+- Non-annoying background noise
+- Imitation Magic 8 ball
+
+### Unity and Vuforia
+- Unity Version 2019.4.28f1
+- - Target build: Android Mobile device
+
 
 ## 3D Objects (SketchFab)
-
 ### Giza
 "Sphinx of Hatshepsut" (https://skfb.ly/6DqNM) by danderson4 is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
 
